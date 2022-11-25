@@ -1,3 +1,3 @@
-Bharath
-India
-Meta frontend developer
+Bharath.
+India.
+Meta frontend developer.
